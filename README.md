@@ -25,5 +25,5 @@ This project analyzes Nykaa sales data to identify customer purchasing behavior,
 - Visualized KPIs using interactive dashboards
 
 ## Dashboard Preview
+<img width="647" height="705" alt="Sample dashboard" src="https://github.com/user-attachments/assets/4a5f84ba-2f2d-46e2-8376-e8915f12dbeb" />
 
-(Add dashboard screenshots below)
